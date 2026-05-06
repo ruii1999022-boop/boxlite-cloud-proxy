@@ -9,6 +9,10 @@ SDK at all.
 
 [boxlite]: https://github.com/boxlite-ai/boxlite
 
+> **Want to verify the bug yourself first?** See [BUG.md](./BUG.md) for a
+> step-by-step reproduction guide. Run it on your own account in ~10
+> minutes; report findings as an issue here.
+
 ## The problem
 
 The boxlite Python SDK's `Boxlite.rest(...)` accepts any URL, so it's
